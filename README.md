@@ -16,8 +16,4 @@ Few things which we can implement better and automated is in this article:
 
 
 
-Thank you Vimal Daga Sir for giving such a great training and taught us many things in such a short span
-
-
-
 🎫Writeup: https://tinyurl.com/ycp83sgk
